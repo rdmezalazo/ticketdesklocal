@@ -1,0 +1,19 @@
+project_id = "knulustsdmfhnwykhbqk"
+
+[functions.send-mention-notification]
+verify_jwt = false
+
+[functions.send-ticket-notification]
+verify_jwt = false
+
+[functions.send-ti-task-notification]
+verify_jwt = false
+
+[functions.send-ti-task-reminders]
+verify_jwt = false
+
+[functions.test-automatic-report]
+verify_jwt = false
+
+[functions.update-user-password]
+verify_jwt = false
